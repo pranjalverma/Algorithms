@@ -1,0 +1,1 @@
+4 0 box-graph-with-no-edges

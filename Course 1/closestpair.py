@@ -1,4 +1,4 @@
-'''closestpair.py: Divide & Conquer'''
+'''closestpair.py: Divide & Conquer/Geometric Algorithm'''
 
 '''Finds the pair of points closest to each other in terms of Euclidean distance on a 2D plane
 in O(nlogn) time'''

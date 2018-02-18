@@ -7,6 +7,7 @@ def dfs(graph, start):
 	explored[-1 * start] = True
 	for v in graph[start]:
 		if not explored[-1 * v]:
+			
 			#recursive nature of DFS creates an implicit stack, unlike the explicit queue of BFS
 			dfs(graph, v)
 

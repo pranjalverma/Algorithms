@@ -64,6 +64,7 @@ class UnionFind():
 #m = num of union+find operations, or num of dist func values encountered, or num of edges
 #n = num of nodes in graph
 def cluster(graph):
+	
 	#sorting to always encounter current spacing among clusters
 	clusters, sortedGraph = UnionFind(), OrderedDict(sorted(graph.items(), key=itemgetter(0)))
 

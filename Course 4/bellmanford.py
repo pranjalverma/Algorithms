@@ -37,7 +37,7 @@ def bellmanford(graph, source):
 
 	#for all possible shortest-path lengths; can't be  more than (n - 1)
 	#otherwise we're revisiting a node
-	#extra +1 in for-loop explained above
+	#extra +1 in the for-loop explained above
 	for pathLen in range(1, (n - 1 + 1) + 1):
 
 		#for all nodes of graph in this path length range

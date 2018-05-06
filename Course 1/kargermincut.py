@@ -1,4 +1,7 @@
-'''kargermincut.py: Randomisation'''
+'''
+kargermincut.py: Randomisation
+@author: Pranjal Verma
+'''
 
 '''Counts no. of crossing edges in the min cut of given undirected graph by contracting 
 randomly chosen edges with a success probability of i/n^2 which can be boosted to a better 

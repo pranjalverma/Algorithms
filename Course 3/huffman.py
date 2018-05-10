@@ -1,6 +1,7 @@
-'''huffman.py: Greedy Algorithm'''
-
-'''@author: Pranjal Verma'''
+'''
+huffman.py: Greedy Algorithm
+@author: Pranjal Verma
+'''
 
 '''Why?:
 	-creates variable-length, prefix-free, lossless compression encoding scheme for any 

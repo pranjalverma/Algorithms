@@ -1,6 +1,7 @@
-'''knapsack.py: Dynamic Programming'''
-
-'''@author: Pranjal Verma'''
+'''
+knapsack.py: Dynamic Programming
+@author: Pranjal Verma
+'''
 
 '''defaultdict:
 	defaultdict is faster than {} for larger data sets with more homogenous key sets

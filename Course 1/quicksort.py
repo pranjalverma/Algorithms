@@ -29,7 +29,7 @@ def partition(arr, l, r):
     for j in range(l + 1, r + 1):
         if arr[j] < arr[l]:
             i += 1
-            arr[j], arr[i] = arr[i], arr[j] # Cool ass python swapping
+            arr[j], arr[i] = arr[i], arr[j] # Cool python swapping
     arr[i], arr[l], = arr[l], arr[i]
 
     #position of pivot in partitioned arr

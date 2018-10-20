@@ -2,7 +2,7 @@
 
 Coursework for Algorithms Specialisation on Coursera by Tim Roughgarden & Stanford University, coded with ❤️ in python3!
 
-### Content
+## Content
 
 [Course 1 - Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://github.com/pranjalverma/Algorithms/tree/master/Course%201)
 

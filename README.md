@@ -1,12 +1,12 @@
 # Algorithms
 
-## What's this about?
+### What's this about?
 This is coursework for Algorithms Specialisation on Coursera by Tim Roughgarden & Stanford University.
 
-## How're the problems implemented?
+### How're the problems implemented?
 Everything's coded with ❤️ in python3!
 
-## Content
+### Content
 
 [Course 1 - Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://github.com/pranjalverma/Algorithms/tree/master/Course%201)
 

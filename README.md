@@ -1,6 +1,6 @@
 # Algorithms
 
-Coursework for Algorithms Specialisation on Coursera by Tim Roughgarden & Stanford University. Coded with ❤️ in python3!
+Coursework for Algorithms Specialisation on Coursera by Tim Roughgarden & Stanford University, coded with ❤️ in python3!
 
 ### Content
 
